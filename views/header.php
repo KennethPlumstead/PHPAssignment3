@@ -22,7 +22,7 @@
         <!-- Home link (kept intentionally) -->
         <ul class="navbar-nav ms-auto">
             <li class="nav-item">
-                <a class="nav-link" href="/PHPAssignment2/index.php">
+                <a class="nav-link" href="/PHPAssignment3/index.php">
                     Home
                 </a>
             </li>

@@ -84,7 +84,7 @@ include __DIR__ . '/../header.php';
 
 <div class="d-flex justify-content-between align-items-center mb-3">
     <h2 class="mb-0">Product Manager</h2>
-    <a href="/PHPAssignment2/index.php" class="btn btn-outline-secondary btn-sm">
+    <a href="/PHPAssignment3/index.php" class="btn btn-outline-secondary btn-sm">
         &larr; Back to Home
     </a>
 </div>
